@@ -45,9 +45,9 @@ I have found that this process is about trying, making mistakes, failing, asking
 
 &nbsp;
 &nbsp;
-# My Contact Info:
+# You can reach me out by 📧
 
- 📧[Email](tara197801@gmail.com)
+ [Email](tara197801@gmail.com)
 
 &nbsp;
 &nbsp;
