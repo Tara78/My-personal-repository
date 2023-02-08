@@ -5,12 +5,18 @@ I love to code, and I have a big ambition to become a full-stack developer.
 
 I have found that this process is about trying, making mistakes, failing, asking, and finally succeeding. 
 
-I’m currently working to become a top notch front-end developer.
+🚀 🎯 I’m currently working to become a top notch front-end developer.
 
-## ⭐⭐ Skillset ⭐⭐
+# ⭐⭐ Skillset ⭐⭐
 
  HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Node.js| MongoDB | Figma |
+ 
+ 
+ # Check My Portfolio & LinkenIn 
+ 
+My Portfolio 👇
+[1]:https://tara-hassani-portfolio.netlify.app 
+[2]:https://www.linkedin.com/in/tara-hassani-28383537   Check my LinkenIn 👉
 
-## Portfolio: https://tara-hassani-portfolio.netlify.app
-## LinkenIn: https://www.linkedin.com/in/tara-hassani-28383537
+# 📣 Ready to start a New Challenge 😉
 
