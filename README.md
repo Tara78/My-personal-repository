@@ -14,9 +14,9 @@ I have found that this process is about trying, making mistakes, failing, asking
  HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Node.js| MongoDB | Figma |
  
  
-# Check My Portfolio & LinkenIn 
-"[Check ou My Portfolio]","(https://tara-hassani-portfolio.netlify.app/)"
-"[LinkedIn]","(https://www.linkedin.com/in/tara-hassani-28383537/)"
+# Check out my Portfolio
+https://tara-hassani-portfolio.netlify.app/
+
 
 
  📣 Ready to start a New Challenge 😉
