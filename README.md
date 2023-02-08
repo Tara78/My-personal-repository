@@ -17,12 +17,12 @@ I have found that this process is about trying, making mistakes, failing, asking
    * HTML5 
    * CSS3 
    * JavaScript (ES6) 
-     -APIs
+     - APIs
    * React
-     -Redux
-     -Styled Components
-    * Node.js
-      - MongoDB
+     _ Redux
+     _ Styled Components
+   * Node.js
+     _ MongoDB
      
  
  &nbsp;
