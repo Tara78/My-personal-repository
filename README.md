@@ -27,6 +27,7 @@ I have found that this process is about trying, making mistakes, failing, asking
    * MongoDB
    * Accessibility 
    * Figma
+   * Google Cloud
      
  
  &nbsp;
@@ -35,16 +36,18 @@ I have found that this process is about trying, making mistakes, failing, asking
  &nbsp;
  &nbsp;
  
-# Check out my Portfolio & LinkedIn 👇
+# Check out my Portfolio / LinkedIn / Netlify 👇
 [My Portfolio](https://tara-hassani-portfolio.netlify.app/)
  &nbsp;
 [LinkedIn](www.linkedin.com/in/tara-hassani-28383537)
 
-&nbsp;
-&nbsp;
-# My Contact Info
+[Netlify](https://app.netlify.com/teams/tara78-4yzzjs0/overview)
 
- [Email](tara197801@gmail.com)
+&nbsp;
+&nbsp;
+# My Contact Info:
+
+ 📧[Email](tara197801@gmail.com)
 
 &nbsp;
 &nbsp;
