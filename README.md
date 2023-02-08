@@ -11,11 +11,13 @@ I have found that this process is about trying, making mistakes, failing, asking
 
 # ⭐⭐ Skillset ⭐⭐
 
- HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Node.js| MongoDB | Figma |
+  < HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Node.js| MongoDB | Figma |
  
  
-# Check out my Portfolio
-https://tara-hassani-portfolio.netlify.app/
+# Check out my Portfolio & LinkedIn
+[my Portfolio](https://tara-hassani-portfolio.netlify.app/).
+[LinkenIn](www.linkedin.com/in/tara-hassani-28383537).
+
 
 
 
