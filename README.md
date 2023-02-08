@@ -1,5 +1,7 @@
-# Hi there 👋
+# Hi 👋
 
+ &nbsp;
+ &nbsp;
 I am a passionate front-end developer with some experience in this field, with a background in Leadership & Project Management.
 I love to code, and I have a big ambition to become a full-stack developer.
 
@@ -31,10 +33,11 @@ I have found that this process is about trying, making mistakes, failing, asking
  &nbsp;
  &nbsp;
  &nbsp;
+ &nbsp;
  
 # Check out my Portfolio & LinkedIn 👇
-[My Portfolio](https://tara-hassani-portfolio.netlify.app/).
-& 
+[My Portfolio](https://tara-hassani-portfolio.netlify.app/)
+ &nbsp;
 [LinkedIn](www.linkedin.com/in/tara-hassani-28383537).
 
 
@@ -42,5 +45,5 @@ I have found that this process is about trying, making mistakes, failing, asking
 &nbsp;
 &nbsp;
 
- 📣 Ready to start a New Challenge 📣 
+ 📣  Ready to start a New Challenge  📣 
 
