@@ -7,16 +7,17 @@ I have found that this process is about trying, making mistakes, failing, asking
 
 🚀 🎯 I’m currently working to become a top notch front-end developer.
 
-# ⭐⭐ Skillset ⭐⭐
+⭐⭐ Skillset ⭐⭐
 
  HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Node.js| MongoDB | Figma |
  
  
- # Check My Portfolio & LinkenIn 
+Check My Portfolio & LinkenIn 
  
-My Portfolio 👇
-[1]:https://tara-hassani-portfolio.netlify.app 
-[2]:https://www.linkedin.com/in/tara-hassani-28383537   Check my LinkenIn 👉
+ 
+[1]:https://tara-hassani-portfolio.netlify.app "My Portfolio 👉"
+[2]:https://www.linkedin.com/in/tara-hassani-28383537   "Check my LinkenIn" 
 
-# 📣 Ready to start a New Challenge 😉
+
+ 📣 Ready to start a New Challenge 😉
 
