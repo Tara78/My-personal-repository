@@ -10,11 +10,23 @@ I have found that this process is about trying, making mistakes, failing, asking
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 # ⭐⭐ Skillset ⭐⭐
 
-   HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Node.js| MongoDB | Figma |
+   * HTML5 
+   * CSS3 
+   * JavaScript (ES6) 
+     -APIs
+   * React
+     -Redux
+     -Styled Components
+    * Node.js
+      - MongoDB
+     
  
+ &nbsp;
+ &nbsp;
  &nbsp;
  &nbsp;
  
@@ -24,6 +36,7 @@ I have found that this process is about trying, making mistakes, failing, asking
 [LinkedIn](www.linkedin.com/in/tara-hassani-28383537).
 
 
+&nbsp;
 &nbsp;
 &nbsp;
 
