@@ -15,8 +15,8 @@ I have found that this process is about trying, making mistakes, failing, asking
  
  
 # Check My Portfolio & LinkenIn 
-[Check ou My Portfolio] 👉"(https://tara-hassani-portfolio.netlify.app/)"
-[LinkedIn] "(https://www.linkedin.com/in/tara-hassani-28383537/)"
+"[Check ou My Portfolio]","(https://tara-hassani-portfolio.netlify.app/)"
+"[LinkedIn]","(https://www.linkedin.com/in/tara-hassani-28383537/)"
 
 
  📣 Ready to start a New Challenge 😉
