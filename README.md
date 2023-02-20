@@ -35,8 +35,8 @@ I have found that this process is about trying, making mistakes, failing, asking
  &nbsp;
 
  
-# Check out my Portfolio / LinkedIn / Netlify 👇
-[My Portfolio](https://tara-hassani-portfolio.netlify.app/)
+# Check out Portfolio / LinkedIn / Netlify 👇
+[Portfolio](https://tara-hassani-portfolio.netlify.app/)
 
 [LinkedIn](www.linkedin.com/in/tara-hassani-28383537)
 
