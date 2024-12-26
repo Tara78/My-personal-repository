@@ -36,16 +36,18 @@ I have found that this process is about trying, making mistakes, failing, asking
 
  
 # Check out Portfolio / LinkedIn / Netlify 👇
-[Portfolio](https://tara-hassani-portfolio.netlify.app/)
+[Portfolio](https://app.netlify.com/teams/tara78-4yzzjs0/sites)
 
-[LinkedIn](www.linkedin.com/in/tara-hassani-28383537)
+[LinkedIn](https://www.linkedin.com/in/tara-verdeille-28383537/)
 
-[Netlify](https://app.netlify.com/teams/tara78-4yzzjs0/overview)
+[Netlify](https://app.netlify.com/teams/tara78-4yzzjs0/sites)
 
 &nbsp;
 # You can reach me out by 📧
 
  [Email](tara197801@gmail.com)
+ [Email](tara.hassani.fr92@gmail.com)
+ 
 &nbsp;
 
  📣  Ready to start a New Challenge  📣 
